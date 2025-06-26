@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "baseUrl": "./",
+      "paths": {
+        "@tRFunc": ["src/components/functions"],
+        "@components": ["src/components"],
+      }
+    }
+  }

@@ -1,0 +1,33 @@
+$green-cage:#1FA59B;
+$light-green-cage:#67c9c2;
+$dark-green-cage:#14746d;
+
+$dark-green-cage-100: tint-color($dark-green-cage, 80%) !default;
+$dark-green-cage-200: tint-color($dark-green-cage, 60%) !default;
+$dark-green-cage-300: tint-color($dark-green-cage, 40%) !default;
+$dark-green-cage-400: tint-color($dark-green-cage, 20%) !default;
+$dark-green-cage-500: $dark-green-cage !default;
+$dark-green-cage-600: shade-color($dark-green-cage, 20%) !default;
+$dark-green-cage-700: shade-color($dark-green-cage, 40%) !default;
+$dark-green-cage-800: shade-color($dark-green-cage, 60%) !default;
+$dark-green-cage-900: shade-color($dark-green-cage, 80%) !default;
+
+$green-cage-100: tint-color($green-cage, 80%) !default;
+$green-cage-200: tint-color($green-cage, 60%) !default;
+$green-cage-300: tint-color($green-cage, 40%) !default;
+$green-cage-400: tint-color($green-cage, 20%) !default;
+$green-cage-500: $green-cage !default;
+$green-cage-600: shade-color($green-cage, 20%) !default;
+$green-cage-700: shade-color($green-cage, 40%) !default;
+$green-cage-800: shade-color($green-cage, 60%) !default;
+$green-cage-900: shade-color($green-cage, 80%) !default;
+
+$light-green-cage-100: tint-color($light-green-cage, 80%) !default;
+$light-green-cage-200: tint-color($light-green-cage, 60%) !default;
+$light-green-cage-300: tint-color($light-green-cage, 40%) !default;
+$light-green-cage-400: tint-color($light-green-cage, 20%) !default;
+$light-green-cage-500: $light-green-cage !default;
+$light-green-cage-600: shade-color($light-green-cage, 20%) !default;
+$light-green-cage-700: shade-color($light-green-cage, 40%) !default;
+$light-green-cage-800: shade-color($light-green-cage, 60%) !default;
+$light-green-cage-900: shade-color($light-green-cage, 80%) !default;

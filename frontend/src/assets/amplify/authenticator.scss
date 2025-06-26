@@ -1,0 +1,15 @@
+[data-amplify-router] {
+    margin-right: 25%;
+    margin-left: 25%;
+}
+
+:root,
+[data-amplify-theme] {
+    --amplify-components-authenticator-container-width-max: 45rem !important;
+    --amplify-components-authenticator-router-background-color: !important;
+    --amplify-components-authenticator-router-border-style: !important;
+}
+
+.amplify-button--primary {
+    background: $green-cage !important;
+}
